@@ -1,0 +1,14 @@
+C:\Users\Evandro\Desktop\ATIVIDADEBECKEND\bin\Debug\net7.0\ATIVIDADEBECKEND.exe
+C:\Users\Evandro\Desktop\ATIVIDADEBECKEND\bin\Debug\net7.0\ATIVIDADEBECKEND.deps.json
+C:\Users\Evandro\Desktop\ATIVIDADEBECKEND\bin\Debug\net7.0\ATIVIDADEBECKEND.runtimeconfig.json
+C:\Users\Evandro\Desktop\ATIVIDADEBECKEND\bin\Debug\net7.0\ATIVIDADEBECKEND.dll
+C:\Users\Evandro\Desktop\ATIVIDADEBECKEND\bin\Debug\net7.0\ATIVIDADEBECKEND.pdb
+C:\Users\Evandro\Desktop\ATIVIDADEBECKEND\obj\Debug\net7.0\ATIVIDADEBECKEND.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Evandro\Desktop\ATIVIDADEBECKEND\obj\Debug\net7.0\ATIVIDADEBECKEND.AssemblyInfoInputs.cache
+C:\Users\Evandro\Desktop\ATIVIDADEBECKEND\obj\Debug\net7.0\ATIVIDADEBECKEND.AssemblyInfo.cs
+C:\Users\Evandro\Desktop\ATIVIDADEBECKEND\obj\Debug\net7.0\ATIVIDADEBECKEND.csproj.CoreCompileInputs.cache
+C:\Users\Evandro\Desktop\ATIVIDADEBECKEND\obj\Debug\net7.0\ATIVIDADEBECKEND.dll
+C:\Users\Evandro\Desktop\ATIVIDADEBECKEND\obj\Debug\net7.0\refint\ATIVIDADEBECKEND.dll
+C:\Users\Evandro\Desktop\ATIVIDADEBECKEND\obj\Debug\net7.0\ATIVIDADEBECKEND.pdb
+C:\Users\Evandro\Desktop\ATIVIDADEBECKEND\obj\Debug\net7.0\ATIVIDADEBECKEND.genruntimeconfig.cache
+C:\Users\Evandro\Desktop\ATIVIDADEBECKEND\obj\Debug\net7.0\ref\ATIVIDADEBECKEND.dll
