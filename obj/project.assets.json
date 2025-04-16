@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Evandro\\Desktop\\ATIVIDADEBECKEND\\ATIVIDADEBECKEND.csproj",
-      "projectName": "ATIVIDADEBECKEND",
-      "projectPath": "C:\\Users\\Evandro\\Desktop\\ATIVIDADEBECKEND\\ATIVIDADEBECKEND.csproj",
+      "projectUniqueName": "C:\\Users\\Evandro\\Desktop\\ATIVIDADEBACKEND\\ATIVIDADEBACKEND.csproj",
+      "projectName": "ATIVIDADEBACKEND",
+      "projectPath": "C:\\Users\\Evandro\\Desktop\\ATIVIDADEBACKEND\\ATIVIDADEBACKEND.csproj",
       "packagesPath": "C:\\Users\\Evandro\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Evandro\\Desktop\\ATIVIDADEBECKEND\\obj\\",
+      "outputPath": "C:\\Users\\Evandro\\Desktop\\ATIVIDADEBACKEND\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Evandro\\AppData\\Roaming\\NuGet\\NuGet.Config",
